@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Photoshop CC
+Type=Application
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+StartupNotify=false
+Comment=Photoshop CC v21 for Linux
+Icon=photoshop-cc
+StartupWMClass=photoshop.exe
+Exec="$HOME/PhotoshopCC/photoshop.sh" %u
