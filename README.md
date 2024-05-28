@@ -2,6 +2,7 @@
 Photoshop CC 2020 wine installation.
   
 This is a Photoshop CC 2020 installer for linux, with the help of wine :)  
+french & english languages.  
 The installer was designed for q4os trinity, but should work on any recent debian distro (maybe with some adjustements to the .desktop files).  
   
 Instructions:  
